@@ -1,4 +1,4 @@
-
+Expenses Tracker
 ---
 
 ## 📊 Project Preview
@@ -25,4 +25,4 @@
 Computer Science student with interest in Data Science, Machine Learning, and Web Development.
 
 ---
-!
+
